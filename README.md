@@ -1,5 +1,5 @@
 ### Hi there, I'm M. Burak 👋
-## Software Developer
+## Full Stack Developer
 
 ### Reach out to me
 

@@ -20,6 +20,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mburakdndr&layout=compact" >
 </details>
 
-[twitter]: https://twitter.com/mburakdndr
-[youtube]: https://www.youtube.com/c/desponres
+[twitter]: https://twitter.com/mburakdndr2
+[youtube]: https://www.youtube.com/mburakdndr
 [linkedin]: https://www.linkedin.com/in/mburakdndr/

@@ -1,5 +1,5 @@
 ### Hi there, I'm M. Burak 👋
-## Full Stack Developer
+## Back End & React Native Developer
 
 ### Reach out to me
 
